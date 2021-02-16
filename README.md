@@ -1,5 +1,7 @@
-### Humi :biking_woman:
 <div align="center">
+  
+### Humi aka Rehumile (My name means we are wealthy is Setswana)
+
   
   - 🌺 Learning: C++
   - 🌺 Interests: Cycling Hiking Swimming Looking after my plant babies 
