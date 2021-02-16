@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   
 ### Humi aka Rehumile (My name means we are wealthy is Setswana)
 
