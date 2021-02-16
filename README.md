@@ -1,4 +1,11 @@
-### Hi there 👋
+### Humi :biking_woman:
+<div align="center">
+  -Learning: C++
+  -Interests: Cycling Hiking Swimming Looking after my plant babies 
+  -Pronouns: She/Her
+  -Fun Fac: The distance between Cairo and Johannesburg is  8 739 km (5430 miles)
+ </div>
+  
 
 <!--
 **Humunchi/Humunchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
