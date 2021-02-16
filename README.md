@@ -26,18 +26,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humunchi&layout=compact&theme=blue-green"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humunchi&layout=compact&theme=blue-green"/>
 </div>
 -->
 
 
-<div align="right">
-
-<img src="https://media.giphy.com/media/hVsfjWYbNgAzIu573S/giphy.gif" />
-</div>
 
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Humunchi&&show_icons=true&theme=blue-green"/>
+<img align="right" src="https://media.giphy.com/media/hVsfjWYbNgAzIu573S/giphy.gif" />
 
-</div>
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Humunchi&&show_icons=true&theme=blue-green"/>
+
+
