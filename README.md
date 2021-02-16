@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://giphy.com/embed/hVsfjWYbNgAzIu573S" />
+<img src="https://media.giphy.com/media/hVsfjWYbNgAzIu573S/giphy.gif" />
 </div>
 
 
