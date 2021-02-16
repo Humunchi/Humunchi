@@ -1,10 +1,10 @@
 ### Humi :biking_woman:
 <div align="center">
   
-  - Learning: C++
-  - Interests: Cycling Hiking Swimming Looking after my plant babies 
-  - Pronouns: She/Her
-  - Fun Fac: The distance between Cairo and Johannesburg is  8 739 km (5430 miles)
+  - 🌺 Learning: C++
+  - 🌺 Interests: Cycling Hiking Swimming Looking after my plant babies 
+  - 🌺 Pronouns: She/Her
+  - 🌺 Fun Fac: The distance between Cairo and Johannesburg is  8 739 km (5430 miles)
  
  </div>
   
