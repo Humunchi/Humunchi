@@ -30,13 +30,12 @@ Here are some ideas to get you started:
 </div>
 -->
 
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Humunchi&&show_icons=true&theme=blue-green"/>
 
 
 <img align="right" src="https://media.giphy.com/media/hVsfjWYbNgAzIu573S/giphy.gif" />
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Humunchi&&show_icons=true&theme=blue-green"/>
 
 
