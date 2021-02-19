@@ -1,12 +1,12 @@
 <div align="left">
   
-### Humi aka Rehumile (My name means we are wealthy is Setswana)
+### Humi aka Rehumile (My name means we are wealthy in Setswana)
 
   
   -  Learning: C++
   -  Interests: Cycling Hiking Swimming Looking after my plant babies 
   -  Pronouns: She/Her
-  -  Fun Fac: The distance between Cairo and Johannesburg is  8 739 km (5430 miles)
+  -  Fun Fact: The distance between Cairo and Johannesburg is  8 739 km (5430 miles)
  
  </div>
  
