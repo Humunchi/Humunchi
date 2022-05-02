@@ -7,6 +7,7 @@
   -  Interests: Cycling Hiking Swimming Looking after my plant babies 
   -  Pronouns: They/Them
   -  Fun Fact: The distance between Cairo and Johannesburg is  8 739 km (5430 miles)
+  -  Interested in UNITY VR and AR using C#
  
  </div>
  
