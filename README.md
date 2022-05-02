@@ -13,8 +13,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Humunchi&&show_icons=true&theme=blue-green"/>
 
 
-<img align="right" src="https://media.giphy.com/media/hVsfjWYbNgAzIu573S/giphy.gif" width="300" height="300" alt="White guy holding house plant"/>
-
 
 
 
